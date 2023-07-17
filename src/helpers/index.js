@@ -1,4 +1,4 @@
-export { addOffset } from "./add-offset";
-export { validateIp } from "./validate-ip";
-export { getAdrdess } from "./get-address";
-export { addTileLayer } from "./add-tyle-layer";
+export {addOffset} from './add-offset';
+export {addTileLayer} from './add-tile-layer';
+export {getAddress} from './get-adress';
+export {validatIp} from './validate-ip';
